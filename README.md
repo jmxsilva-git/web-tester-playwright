@@ -1,2 +1,2 @@
-# web-tester-agent
-web-tester-agent mcp playwright
+# web-tester-playwright
+web-tester-playwright-agent mcp
